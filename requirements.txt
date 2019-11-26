@@ -1,0 +1,6 @@
+azure-functions
+pyld
+pyyaml 
+pytest 
+requests
+aiohttp
